@@ -5,6 +5,8 @@ Durante a programação da mesma foi deparado por vários desafios, haja vista a
 Foi treinado a capacidade de raciocinar, bem como transformar o algoritmo/esboço em código.
 Exigiu-se que o código fosse 'debugado' várias vezes, a fim de encontrar erros, bem como aproximar do funcionamento ideal.
 
+A estrutura utilizada, foi que cada nó podia ter 4 elementos, bem como 5 filhos.
+
 Explicação teórica sobre o algoritmo:
 
 Uma árvore B é uma estrutura de dados em forma de árvore que é frequentemente utilizada em bancos de dados e sistemas de armazenamento para organizar e gerenciar grandes quantidades de dados de forma eficiente. Ela foi projetada para fornecer uma rápida inserção, exclusão e busca de dados, tornando-se uma escolha popular para sistemas que precisam lidar com operações de leitura e gravação em grandes conjuntos de informações.
